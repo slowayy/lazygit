@@ -1,0 +1,2 @@
+utilizano os seguintes parametros dentro do lazyvim "e ~/Documentos/coding/lazygit/pasta1/pasta2/arquivo.txt" eu consegui acessar a pasta lazygit que é este repositório, e então criar a pasta1, pasta2 e então o arquivo.txt.
+
