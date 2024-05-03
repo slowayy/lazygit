@@ -6,5 +6,5 @@
 
 
 os.execute('git add -A')
-os.execute('git push')
 os.execute('git commit -a -m update')
+os.execute('git push')
