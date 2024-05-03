@@ -9,7 +9,7 @@ os.execute('git add -A')
 os.execute('git commit -a -m update')
 os.execute('git push')
 
-os.execute('cd .. && cd Wired && echo. > " .. obisidian .. ".lua')
+os.execute('cd .. && cd Wired && git add -A && git commit -a -m update && git push')
 -- os.execute("echo. > " .. obisidian .. ".lua")
 
 -- -- os.execute('git add -A')
