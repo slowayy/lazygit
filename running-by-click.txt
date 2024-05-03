@@ -1,0 +1,1 @@
+not worked, i created a .bat file to run the lua script to update the git every time
