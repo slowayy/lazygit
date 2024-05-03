@@ -3,7 +3,7 @@
 -- ###### Author: https://github.com/slowayy
 -- ###### At: 2024/05/03
 -- ###### this script can be reduced as well in linux but since i back to windows idk how to do here without using a .bat file to run the script.
-local obisidian = Wired
+local obisidian = "Wired"
 
 os.execute('git add -A')
 os.execute('git commit -a -m update')
